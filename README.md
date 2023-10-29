@@ -29,7 +29,7 @@ Uttarakhand, often referred to as the "Land of the Gods," is a paradise nestled 
 
 ## Contribution
 We welcome contributions from the community to make this platform even better. 
-If you would like to contribute to any of my projects, please fork this repository and create a new branch for your changes. Once you are finished, please submit a pull request.
+If you would like to contribute to my projects, please fork this repository and create a new branch for your changes. Once you are finished, please submit a pull request.
 
 ## Screenshorts
 1. 

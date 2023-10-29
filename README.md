@@ -23,12 +23,9 @@ Uttarakhand, often referred to as the "Land of the Gods," is a paradise nestled 
 ## Getting Started
 
 1. **Clone the Repository**: 
-   ```bash
-   git clonehttps://github.com/NegiAdarsh/Uttarakhand-tour.git
-
 2. **Open index.html in your browser**
 3. **Enjoy Newsletter, blogging and payment feature**
-4. **Site Live at** [https://negiadarsh.github.io/uttarakhand-tour/]
+4. **Site Live at** https://651affdc84c9d51cee1e83b5--dreamy-marzipan-2eabcf.netlify.app/
 
 ## Contribution
 We welcome contributions from the community to make this platform even better. 
@@ -44,22 +41,6 @@ We welcome contributions from the community to make this platform even better.
 ![4](https://github.com/NegiAdarsh/uttarakhand-tour/assets/100505819/aff3121d-d466-4368-b281-f72b5f227b7d)
 5.
 ![pay](https://github.com/NegiAdarsh/uttarakhand-tour/assets/100505819/2f9d4e5e-7431-40fe-b9be-1a3109909806)
-6. 
-
-
-![Screenshot from 2023-09-29 15-26-06](https://github.com/NegiAdarsh/uttarakhand-tour/assets/100505819/00d77cd2-276c-4c41-ac0e-e47dda8f562e)
-
-7.
-
-
-![Screenshot 2023-09-29 201226](https://github.com/NegiAdarsh/uttarakhand-tour/assets/100505819/61f4b6ad-d8fd-47fd-a220-de3939061999)
-8.
-![Screenshot 2023-09-29 201338](https://github.com/NegiAdarsh/uttarakhand-tour/assets/100505819/ed0c63bc-6908-45e3-9538-fb2af84b38e9)
-
-
-
-
-
 
 
 

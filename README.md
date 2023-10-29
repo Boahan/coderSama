@@ -33,15 +33,36 @@ We welcome contributions from the community to make this platform even better.
 ## Screenshorts
 1. 
 ![1](https://github.com/NegiAdarsh/uttarakhand-tour/assets/100505819/d888a994-ee3b-4300-8c6c-c988d4bfe998)
+
 2.
 ![2](https://github.com/NegiAdarsh/uttarakhand-tour/assets/100505819/13de0149-d177-4ad9-9be2-7b3139449440)
+
 3.
 ![3](https://github.com/NegiAdarsh/uttarakhand-tour/assets/100505819/e7a1b84c-6cda-452b-bc1d-42c09dd112ec)
+
 4.
 ![4](https://github.com/NegiAdarsh/uttarakhand-tour/assets/100505819/aff3121d-d466-4368-b281-f72b5f227b7d)
+
 5.
 ![pay](https://github.com/NegiAdarsh/uttarakhand-tour/assets/100505819/2f9d4e5e-7431-40fe-b9be-1a3109909806)
 
+
+## Usage ⚙️
+You can use this project for further developing it and adding your work in it. If you use this project, kindly mention the original source of the project and mention the link of this repo in your report.
+
+**Contributing**
+
+If you would like to contribute to any of my projects, please fork this repository and create a new branch for your changes. Once you are finished, please submit a pull request.
+
+
+## Contact 📞
+
+#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/shaswat-gusain-2924a324a),[Email](shaswatgusain1@gmail.com)
+
+
+### Copyright
+
+All of my projects are licensed under the MIT License. Copyright &copy; 2023 Shaswat Gusain.
 
 
 
